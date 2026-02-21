@@ -1,6 +1,6 @@
 # LearningDutch
 
-- [1-Dutch Sound System](DutchSoundSystem.md)
+- [1-Dutch Sound System](1-DutchSoundSystem.md)
 - [2-Numbers](2-Numbers.md)
 - [3-Days, Months, Seasons, Time](3-DaysMonthsSeasonsTime.md)
 - [4-Greetings And Daily Phrases](4-GreetingsAndDailyPhrases.md)
