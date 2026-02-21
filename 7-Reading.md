@@ -1,7 +1,5 @@
 # 🔴 PART 7 - A2 READING EXAM COURSE
 
-<div class="section">
-
 ## 🔴 EXAM GOLDEN LIST (Memorize First!)
 
 These words appear in **80% of reading texts**. Learn them + their
@@ -15,20 +13,12 @@ synonyms:
 | Actions  | afspraak, afspraak maken, controleren, schoonmaken, kopen, huren, inschrijven, klacht |
 | Problems | kapot, te duur, te laat, geen tijd, niet mogelijk, gesloten                           |
 
-<div class="key-rule">
 
 🔑 GOLDEN RULE \#1: When you see an unknown word, look for TIME / PLACE
 / PERSON. They are always the answer keys!
 
-</div>
-
-</div>
-
-<div class="section">
 
 ## 7.1. A2 Reading Exam Structure
-
-<div class="box">
 
 **WHAT:** 25–35 multiple choice questions on computer.  
 **TIME:** 65 minutes.  
@@ -37,16 +27,12 @@ announcements.
 **LEVEL:** Short sentences, everyday topics (work, health, housing,
 school, shopping, government).
 
-</div>
-
-<div class="key-rule">
 
 🔑 GOLDEN RULE \#2: You do NOT translate the full text. Find 1–3 KEY
 WORDS that match the question.
 
-</div>
 
-### 1.1 Question Types & Patterns
+### 7.1.1 Question Types & Patterns
 
 | Type              | Question Example                              | What to Look For                    |
 |-------------------|-----------------------------------------------|-------------------------------------|
@@ -55,38 +41,21 @@ WORDS that match the question.
 | Form/Letter (15%) | Wat moet je meenemen? Waar vul je in?         | Bold words, lists, requirements     |
 | Ad/Notice (5%)    | Wat mag niet? Wat is gratis?                  | Conditions, prices, rules           |
 
-</div>
-
-<div class="section">
 
 ## 7.2. Traps & How to Avoid Them
-
-<div class="trap">
 
 **TRAP \#1: Almost Correct Options**  
 Text: "De afspraak is op **dinsdag** om 11.15 uur."  
 Wrong option: "De afspraak is op *maandag* om 11.15 uur."  
 → Always double-check time/place/person.
 
-</div>
-
-<div class="trap">
 
 **TRAP \#2: Distractors**  
 Text mentions "fiets kapot" → option about "auto repareren" is wrong.
 
-</div>
-
-<div class="key-rule">
-
 🔑 GOLDEN RULE \#3: Read QUESTION FIRST. Underline keywords. Scan text
 for EXACT match or synonym.
 
-</div>
-
-</div>
-
-<div class="section">
 
 ## 7.3. Reading Vocab Mastery Tables
 
@@ -116,22 +85,13 @@ for EXACT match or synonym.
 | paspoort, huurcontract | passport, rental contract |
 | klacht, probleem       | complaint, problem        |
 
-<div class="key-rule">
 
 🔑 GOLDEN RULE \#4: 95% of answers are in these vocab categories.
 Memorize + recognize synonyms.
 
-</div>
-
-</div>
-
-<div class="section">
-
 ## 7.4. Model Q&A – Email Texts (Most Common)
 
 ### Model 1: Afspraak Email
-
-<div class="box">
 
 **TEXT:**  
 Beste meneer Ahmed,  
@@ -141,46 +101,22 @@ De afspraak is om **11.15 uur** bij loket 3. Neemt u alstublieft uw
 Met vriendelijke groet,  
 Gemeente Rotterdam
 
-</div>
-
-<div class="question">
-
 Q1: Waar heeft meneer Ahmed een afspraak?
-
-</div>
-
-<div class="options">
 
 A. Bij de huisarts  
 **B. Bij de gemeente Rotterdam**  
 C. Bij de politie
 
-</div>
-
-<div class="question">
-
 Q2: Hoe laat is de afspraak?
-
-</div>
-
-<div class="options">
 
 A. Om 10.30 uur  
 **B. Om 11.15 uur**  
 C. Om 3.00 uur
 
-</div>
-
-<div class="model-answer">
-
 **WHY B? KEYWORDS:** "gemeente Rotterdam" matches exactly. Trap A is
 "huisarts" (mentioned nowhere).
 
-</div>
-
 ### Model 2: Klacht Email
-
-<div class="box">
 
 Beste meneer De Vries,  
 Ik schrijf over een **klacht**. Op 5 april heb ik een fiets gekocht in
@@ -189,101 +125,48 @@ terug.
 Groeten,  
 Mevrouw Jansen
 
-</div>
-
-<div class="question">
-
 Q: Waarom schrijft mevrouw Jansen?
-
-</div>
-
-<div class="options">
 
 **A. Ze heeft een klacht over een fiets**  
 B. Ze wil een nieuwe fiets kopen  
 C. Ze wil geld lenen
 
-</div>
-
-<div class="model-answer">
-
 **WHY A?** Keyword "klacht" + "fiets kapot" = main idea. Trap B ignores
 the problem.
-
-</div>
-
-</div>
-
-<div class="section">
 
 ## 7.5. Model Q&A – Forms & Ads
 
 ### Model 3: Inschrijfformulier
-
-<div class="box">
-
 **Inschrijfformulier Taalcursus**  
 Naam: .........................  
 Adres: ..........................  
 **Telefoonnummer: .........................**  
 Cursus: Nederlands A2
 
-</div>
-
-<div class="question">
-
 Q: Waar schrijft u uw telefoonnummer?
-
-</div>
-
-<div class="options">
 
 A. Achter "Naam"  
 **B. Achter "Telefoonnummer"**  
 C. Achter "Cursus"
 
-</div>
-
-<div class="model-answer">
-
 **WHY B?** Exact match. Always look for the label.
 
-</div>
-
 ### Model 4: Advertentie
-
-<div class="box">
 
 **Openingstijden Supermarkt**  
 Maandag t/m vrijdag: 8.00 – 20.00 uur  
 Zaterdag: 8.00 – 18.00 uur  
 Zondag: **gesloten**
 
-</div>
-
-<div class="question">
-
 Q: Wanneer is de supermarkt gesloten?
-
-</div>
-
-<div class="options">
 
 A. Op zaterdag  
 B. Op vrijdag  
 **C. Op zondag**
 
-</div>
-
-</div>
-
-<div class="section">
-
 ## 7.6. FULL SAMPLE READING EXAM 1 (15 Questions – 20 Minutes)
 
 Do this under time. Check your score after.
-
-<div class="box">
 
 #### Text 1: Email van de huisarts
 
@@ -296,33 +179,12 @@ Groet,
 
 Dokter Smit
 
-</div>
-
-<div class="question">
-
-1\. Wanneer is de afspraak?
-
-</div>
-
-<div class="options">
+1. Wanneer is de afspraak?
 
 A. Dinsdag 10.30 uur \| B. Woensdag 10.30 uur \| C. Woensdag 9.30 uur
 
-</div>
-
-<div class="question">
-
-2\. Wat moet mevrouw Bakker meenemen?
-
-</div>
-
-<div class="options">
-
+2. Wat moet mevrouw Bakker meenemen?
 A. Paspoort \| B. Huurcontract \| C. Zorgpas
-
-</div>
-
-<div class="box">
 
 #### Text 2: Advertentie fietswinkel
 
@@ -331,21 +193,8 @@ Kosten: €25 voor remmen, €15 voor band plakken.
 Opening: maandag t/m vrijdag 9.00 – 17.00 uur.  
 Zaterdag **op afspraak**.
 
-</div>
-
-<div class="question">
-
-3\. Wanneer is de winkel op zaterdag open?
-
-</div>
-
-<div class="options">
-
+3. Wanneer is de winkel op zaterdag open?
 A. 9.00 – 17.00 uur \| B. Gesloten \| C. Alleen op afspraak
-
-</div>
-
-<div class="answer-key">
 
 **ANSWER KEY FULL EXAM 1:**  
 1. B \| 2. C \| 3. C \| 4. B \| 5. A \| 6. C \| 7. B \| 8. A \| 9. C \|
@@ -353,24 +202,11 @@ A. 9.00 – 17.00 uur \| B. Gesloten \| C. Alleen op afspraak
 **Score 13+/15 = Ready for exam. 10–12 = More practice. Under 10 = Drill
 vocab first.**
 
-</div>
-
-</div>
-
-<div class="section">
-
-
 ## 7.7. Daily Practice Plan (10–15h/week)
 
 -   **Day 1–3:** Memorize vocab tables + do model Q&A.
 -   **Day 4–6:** Full Sample Exam 1 + review wrong answers.
 -   **Day 7:** Full Sample Exam 2 under strict 20 min time.
 
-<div class="key-rule">
-
 🔑 FINAL RULE: Aim for 80%+ on these samples before your real exam. You
 will pass Lezen!
-
-</div>
-
-</div>
