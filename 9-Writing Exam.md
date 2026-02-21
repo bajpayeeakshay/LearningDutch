@@ -1,8 +1,8 @@
-# PART 7: THE WRITING EXAM (SCHRIJVEN) — COMPLETE GUIDE
+# PART 9: THE WRITING EXAM (SCHRIJVEN) — COMPLETE GUIDE
 
 # ═══════════════════════════════════════
 
-## 7.1 Exam Format
+## 9.1 Exam Format
 
 -   **Duration:** 40 minutes
 -   **Format:** Pen and paper (handwritten!)
@@ -23,7 +23,7 @@
 
 ------------------------------------------------------------------------
 
-## 7.2 Task 1: Form Filling (Formulier invullen)
+## 9.2 Task 1: Form Filling (Formulier invullen)
 
 **Memorize these field names!**
 
@@ -41,7 +41,7 @@
 | Huisnummer         | House number      | 12                  |
 | Postcode           | Postal code       | 1234 AB             |
 | Woonplaats         | City of residence | Bleiswijk           |
-| Telefoonnummer     | Phone number      | 06-12345678         |
+| Telefoonnummer     | Phone number      | 06-1234568         |
 | E-mailadres        | Email address     | <naam@email.nl>     |
 | Beroep             | Profession        | Data engineer       |
 | Burgerlijke staat  | Marital status    | Gehuwd / Ongehuwd   |
@@ -54,7 +54,7 @@ Police report form:
 -   Persoonsgegevens: Michiel Pietersen
 -   Adres: Violastraat 23
 -   Postcode: 1454 EO Harderwijk
--   Telefoon: 06-3928374
+-   Telefoon: 06-392834
 -   E-mail: <xyz@xyz.nl>
 -   In welke straat zijn er problemen? Violastraat
 -   Wat zijn de problemen? 1. Harde muziek bij de buren in de nacht. 2.
@@ -62,7 +62,7 @@ Police report form:
 
 ------------------------------------------------------------------------
 
-## 7.3 Task 2 & 3: Email Writing — THE COMPLETE TEMPLATE SYSTEM
+## 9.3 Task 2 & 3: Email Writing — THE COMPLETE TEMPLATE SYSTEM
 
 ### The 6-Part Email Structure:
 
@@ -137,7 +137,7 @@ Police report form:
 
 ------------------------------------------------------------------------
 
-## 7.4 ALL 14+ EMAIL EXAMPLES FROM YOUR PDFs (With Model Answers)
+## 9.4 ALL 14+ EMAIL EXAMPLES FROM YOUR PDFs (With Model Answers)
 
 ### EMAIL 1: Boodschappen doen (Groceries)
 
@@ -419,7 +419,7 @@ Groeten,
 
 ------------------------------------------------------------------------
 
-## 7.5 Short Text Topics (Wijkkrant / Short writing)
+## 9.5 Short Text Topics (Wijkkrant / Short writing)
 
 ### The 3-Question Formula: What? + Why? + When/Who/Where?
 
@@ -523,7 +523,7 @@ Wij gaan wel eens samen voetballen of eten.
 
 ------------------------------------------------------------------------
 
-## 7.6 The "Make Small Sentences" Strategy
+## 9.6 The "Make Small Sentences" Strategy
 
 **🔑 THE TeMPO METHOD:** When you get a writing task, break it into
 small sentences first, then combine with "want/maar/en":
@@ -545,7 +545,7 @@ small sentences first, then combine with "want/maar/en":
 
 ------------------------------------------------------------------------
 
-## 7.7 Birthday Card Template
+## 9.7 Birthday Card Template
 
 ``` hljs
 Hallo [naam],
@@ -558,7 +558,7 @@ Groeten,
 
 ------------------------------------------------------------------------
 
-## 7.8 Replying to an Email Template
+## 9.8 Replying to an Email Template
 
 **Original email from Milena:**
 
@@ -579,7 +579,7 @@ Thomas
 
 ------------------------------------------------------------------------
 
-## 7.9 Model Texts from Your PDF — Study These!
+## 9.9 Model Texts from Your PDF — Study These!
 
 ### "Mijn dagelijkse routine" (My daily routine)
 
