@@ -513,3 +513,24 @@ data engineering discipline, you will PASS on the first try. Go get it!
 
 39. [Some pronunciation
     tips](https://www.reddit.com/r/learndutch/comments/p9ile7/some_pronunciation_tips/)
+
+
+## VIDEO REFERENCES: 
+[Grammatica](https://www.youtube.com/playlist?list=PLF-qJ8Ed0qHfOWbvTwzQdW2c4thDHrjaQ)
+[Artikel](https://www.youtube.com/watch?v=zEj1pbv55SM)
+[Pronomen Subject](https://www.youtube.com/watch?v=igcmoh3ZJJU)
+[Pronomen Possessief](https://www.youtube.com/watch?v=ZOdpIdMek-c)
+[Pronomen Object](https://www.youtube.com/watch?v=_IovjENb724)
+[Verbum [Regular](https://www.youtube.com/watch?v=XznFFzHg21s)
+[verbum [Hebben/zijn](https://www.youtube.com/watch?v=hdRjcWkC_qk)
+[Verbum [Modaal verbum](https://www.youtube.com/watch?v=SVwkdG7U9fQ)
+[Sentence Structure](downloaded video on pc )
+[Inversie](https://www.youtube.com/watch?v=A2O_xAAeTS0)
+[Verbum [Perfectum](https://www.youtube.com/watch?v=JX_X3BhAS9k)
+[Verbum [Seperabel](https://www.youtube.com/watch?v=KoL1Zg6Axac)
+[Conjuncties 1]( https://www.youtube.com/watch?v=9OBUvTiPaMc)
+[Conjuncties 2](only test on website) 
+[Pluralis](explanation on website along with tests) 
+[Comperatief & Superlatief](https://www.youtube.com/watch?v=QaKGH-9pQ5c)
+[Negatie](https://www.youtube.com/watch?v=UEAKUATmbzg)
+[Demonstratief](https://www.youtube.com/watch?v=IbQyQpWLV1k)
